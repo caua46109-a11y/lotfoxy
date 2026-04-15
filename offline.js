@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1775523169,
+	"version": 1776212934,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,6 +55,7 @@
 		"images/camera-sheet0.png",
 		"images/player_animator-sheet0.png",
 		"images/player_animator-sheet1.png",
+		"images/player_animator-sheet2.png",
 		"images/player_colizor-sheet0.png",
 		"images/player_mapa-sheet0.png",
 		"images/player_rastrro-sheet0.png",
@@ -159,6 +160,9 @@
 		"images/barco-sheet2.png",
 		"images/colizor_reset_player-sheet0.png",
 		"images/texte.png",
+		"images/cama-sheet0.png",
+		"images/chuva.png",
+		"images/rai-sheet0.png",
 		"media/menu-lotfy-2 (2).m4a",
 		"media/menu-lotfy-2 (2).ogg",
 		"media/area1-lotfoxy-2 (1).m4a",
